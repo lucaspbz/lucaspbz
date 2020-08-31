@@ -1,8 +1,8 @@
-### Hi there 🤙🏼
+## Hi there 🤙🏼
 
-Loading web developer mode...
+...loading web developer mode
 
-#### Techs I love to work with:
+### Techs I love to work with:
 
 
 
