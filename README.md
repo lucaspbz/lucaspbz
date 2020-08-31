@@ -12,8 +12,7 @@
 
 ### You can find me here:
 
-[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />](https://api.whatsapp.com/send?1=pt_BR&phone=5585997063050)
-
+[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />](https://api.whatsapp.com/send?1=pt_BR&phone=5585997063050) [<img src="	https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devlucasbezerra/)
 <!--
 **lucaspbz/lucaspbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
