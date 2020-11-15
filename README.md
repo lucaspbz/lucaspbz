@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaspbz" alt="lucaspbz" /> </p>
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucaspbz](https://github.com/lucaspbz)
 
